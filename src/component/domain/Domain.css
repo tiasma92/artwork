@@ -1,0 +1,21 @@
+.domain-container {
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.domain-painting {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.domain-img {
+    width: 400px;
+}
+
+.domain-title {
+    font-weight: bold;
+}
